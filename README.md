@@ -20,4 +20,4 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/mas04n1k/Api.git
-cd currency-converter
+cd Api
